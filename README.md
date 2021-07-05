@@ -1,8 +1,8 @@
 ### Hello!, my name is Luis, and I'm a cuban software developer, currently living in Brazil 🇧🇷.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xreaper95&count_private=true&show_icons=true&theme=dark)](https://github.com/xreaper95/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xreaper95&count_private=true&show_icons=true&theme=cobalt&border_radius=45&hide_border=true&include_all_commits=true)](https://github.com/xreaper95/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xreaper95&layout=compact&theme=dark)](https://github.com/xreaper95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xreaper95&layout=compact&theme=cobalt&border_radius=45&hide_border=true&include_all_commits=true)](https://github.com/xreaper95/github-readme-stats)
 
 
 ### Favorite programming languages (in no specific order):
