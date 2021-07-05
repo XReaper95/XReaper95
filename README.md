@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xreaper95&count_private=true&show_icons=true&theme=dark)](https://github.com/xreaper95/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xreaper95&theme=dark)](https://github.com/xreaper95/github-readme-stats)
+
+
 ### Favorite programming languages (in no specific order):
 
 - <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="20"> Python
